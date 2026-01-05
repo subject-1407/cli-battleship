@@ -20,3 +20,21 @@ This project is a work in progress and is designed to demonstrate Python program
 - Turn-based play with simple AI
 
 ---
+
+## How to Play
+
+Run the game:
+
+```bash
+python3 cli-battleship.py
+```
+
+---
+
+## TODO
+
+- Manual ship placement
+- Fully implemented player turns
+- AI hard mode with strategy
+- Better input validation and coordinate handling
+- Game statistics (turn count, hit/miss ratio)
