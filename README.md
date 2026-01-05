@@ -1,6 +1,6 @@
-# CLI Battleships (Work in Progress)
+# CLI Battleship (Work in Progress)
 
-This is a **command-line implementation of Battleships** in Python.  
+This is a command-line implementation of Battleship in Python.  
 The game is playable in the terminal and currently supports:
 
 - Random ship placement for both player and AI
