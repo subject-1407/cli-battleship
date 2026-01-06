@@ -4,9 +4,8 @@ This is a command-line implementation of Battleship in Python.
 The game is playable in the terminal and currently supports:
 
 - Random ship placement for both player and AI
-- Player and AI turns (AI currently "easy" mode random targeting)
+- easy mode AI turns (random targeting)
 - Basic hit/miss logic and view updates
-- Fog of war using separate ocean and radar views
 
 This project is a work in progress.
 
@@ -30,9 +29,9 @@ python3 cli-battleship.py
 - Better input validation and coordinate handling
 - Game statistics (turn count, hit/miss ratio)
 
----
+--- 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) 
+[MIT](https://choosealicense.com/licenses/mit/)
 
